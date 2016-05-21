@@ -1,0 +1,49 @@
+## Interface: 20003
+## Title: Venantes
+## Notes: Button sphere for hunters
+## Author: Zirah
+## Version: 2.0 RC6
+## Deps: SphereLoader
+## OptionalDeps: Ace2, Babble-Spell-2.2, Compost-2.0, Dewdrop-2.0, FuBarPlugin-2.0, Gratuity-2.0, Metrognome-2.0, PeriodicTable-3.0, Tablet-2.0
+## LoadOnDemand: 1
+## SavedVariables: VenantesDB
+## SavedVariablesPerCharacter: VenantesDBPC
+## X-Category: Hunter
+## X-Embeds: Ace2, Babble-Spell-2.2, Compost-2.0, Dewdrop-2.0, FuBarPlugin-2.0, Gratuity-2.0, Metrognome-2.0, PeriodicTable-3.0, Tablet-2.0
+
+Libs\Ace2\AceLibrary\AceLibrary.lua
+Libs\Ace2\AceOO-2.0\AceOO-2.0.lua
+Libs\Ace2\AceAddon-2.0\AceAddon-2.0.lua
+Libs\Ace2\AceDB-2.0\AceDB-2.0.lua
+Libs\Ace2\AceConsole-2.0\AceConsole-2.0.lua
+Libs\Ace2\AceEvent-2.0\AceEvent-2.0.lua
+Libs\Ace2\AceLocale-2.2\AceLocale-2.2.lua
+
+Libs\Babble-Spell-2.2\Babble-Spell-2.2.lua
+Libs\Compost-2.0\Compost-2.0.lua
+Libs\Dewdrop-2.0\Dewdrop-2.0.lua
+Libs\Gratuity-2.0\Gratuity-2.0.lua
+Libs\FuBarPlugin-2.0\FuBarPlugin-2.0.lua
+Libs\Metrognome-2.0\Metrognome-2.0.lua
+Libs\Tablet-2.0\Tablet-2.0.lua
+
+Libs\PeriodicTable-3.0\PeriodicTable-3.0.lua
+Libs\PeriodicTable-3.0-AllData\PeriodicTable-3.0-AllData.lua
+
+SphereLib\SphereCore-2.0.lua
+SphereLib\SphereButtons-2.0.lua
+SphereLib\SphereInventory-2.0.lua
+
+Locale-enUS.lua
+Locale-deDE.lua
+Locale-frFR.lua
+Locale-zhTW.lua
+
+Speech-enUS.lua
+Speech-deDE.lua
+Speech-frFR.lua
+Speech-zhTW.lua
+
+Venantes.xml
+Venantes.lua
+Venantes_FuBar.lua

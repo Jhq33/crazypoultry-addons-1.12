@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+r81926 | StingerSoft | 2008-09-20 06:50:00 -0400 (Sat, 20 Sep 2008) | 1 line
+Changed paths:
+   A /trunk/QuestAnnouncer/Locale
+   A /trunk/QuestAnnouncer/Locale/Locale-deDE.lua
+   A /trunk/QuestAnnouncer/Locale/Locale-enUS.lua
+   A /trunk/QuestAnnouncer/Locale/Locale-frFR.lua
+   A /trunk/QuestAnnouncer/Locale/Locale-koKR.lua
+   A /trunk/QuestAnnouncer/Locale/Locale-ruRU.lua
+   A /trunk/QuestAnnouncer/Locale/Locale-zhCN.lua
+   A /trunk/QuestAnnouncer/Locale/Locale-zhTW.lua
+   D /trunk/QuestAnnouncer/Locale-deDE.lua
+   D /trunk/QuestAnnouncer/Locale-enUS.lua
+   D /trunk/QuestAnnouncer/Locale-frFR.lua
+   D /trunk/QuestAnnouncer/Locale-koKR.lua
+   D /trunk/QuestAnnouncer/Locale-zhCN.lua
+   D /trunk/QuestAnnouncer/Locale-zhTW.lua
+   M /trunk/QuestAnnouncer/QuestAnnouncer.toc
+
+QuestAnnouncer: addes ruRU localization and adjust loc path
+------------------------------------------------------------------------

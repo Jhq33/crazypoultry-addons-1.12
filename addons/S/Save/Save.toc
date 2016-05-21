@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Save
+## Notes: Automatically sends command "save"
+## Author: BalakinUser
+Save.xml
