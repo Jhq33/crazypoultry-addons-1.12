@@ -1,6 +1,0 @@
-## Interface: 11200
-## Title: Loot Counter
-## Version: 0.6
-## Notes: LootCounter for SCT
-## Dependencies: sct
-LootCounter.xml
