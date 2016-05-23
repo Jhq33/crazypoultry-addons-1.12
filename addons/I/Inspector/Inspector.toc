@@ -1,6 +1,0 @@
-## Interface: 10900
-## Title: Inspector v0.9
-## Author: Vix Orien
-## Notes: Allows item inspection from a distance
-Inspector.xml
-InspectorButton.xml

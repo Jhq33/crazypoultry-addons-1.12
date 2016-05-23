@@ -1,5 +1,0 @@
-## Author: Zashir
-## Title: Death Estimator
-## Notes: Adds a bindable button that toggles a window with death estimation statistics.
-## Interface: 4216
-DeathEstimator.xml
